@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "build",
+        "typeRoots": [
+            "./typings",
+            "./node_modules/@types/"
+        ]
+    },
+    "include": ["src/**/*"]
+}
